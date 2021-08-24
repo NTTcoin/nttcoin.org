@@ -1681,17 +1681,7 @@
                 children: Object(fn.jsx)(Rr, {
                   translationId: 74,
                   children: "Liquidity"
-                })
-				 }), Object(fn.jsx)(l.e, {
-               id: "pool-nav-link",
-                as: "a",
-                href: "https://bscscan.com/token/0xa7da26de9df799fdf8ba6280981fd6ee9b2f6882",
-                target: "_blank",
-                rel: "noreferrer noopener",
-                 children: Object(fn.jsx)(Rr, {
-                  translationId: 74,
-                  children: "Contract"
-                })
+                }
               }), Object(fn.jsx)(l.e, {
                 id: "pool-nav-link",
                 as: "a",
@@ -9109,7 +9099,7 @@
                   children: Object(fn.jsx)(l.l, {
                     justifyContent: "space-between",
                     className: "mb-2",
-                    children: "NTT COIN"
+                    children: "NTTCOIN.ORG"
                   })
                 })
               })

@@ -9089,20 +9089,7 @@
                   })]
                 })]
               })
-            }), Object(fn.jsx)(ib, {
-              children: Object(fn.jsx)(au, {
-                children: Object(fn.jsx)("div", {
-                  style: {
-                    padding: "14px 24px",
-                    color: "#D92531"
-                  },
-                  children: Object(fn.jsx)(l.l, {
-                    justifyContent: "space-between",
-                    className: "mb-2",
-                    children: "NTTCOIN.ORG"
-                  })
-                })
-              })
+      
             }), Object(fn.jsx)(xp, {
               trade: be
             })]
